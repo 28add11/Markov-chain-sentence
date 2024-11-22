@@ -1,6 +1,6 @@
 # Markov-chain-sentence
 
-![Image of the graph for the markov chain](program.png)
+![Image of the graph for the markov chain](https://github.com/28add11/Markov-chain-sentence/blob/main/program.png)
 
 A Markov chain sentence generator, made using pygame!
 
